@@ -10,6 +10,10 @@
           <option name="url" value="https://phuttipong_aim@bitbucket.org/phuttipong_aim/skooldio-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://phuttipong_aim@bitbucket.org/skooldio/skooldio-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workspace" />
