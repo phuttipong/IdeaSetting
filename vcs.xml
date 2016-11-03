@@ -22,6 +22,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="pog_08@hotmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://phuttipong_aim@bitbucket.org/skooldio/register-page.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/workspace" />
