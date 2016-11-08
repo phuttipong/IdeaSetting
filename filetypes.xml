@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="customers" type="JavaScript" />
       <mapping pattern="configuration.js" type="PLAIN_TEXT" />
+      <mapping ext="ejs" type="XHTML" />
     </extensionMap>
   </component>
 </application>
