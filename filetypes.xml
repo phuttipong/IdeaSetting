@@ -2,10 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="customers" type="JavaScript" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="eslint" type="PLAIN_TEXT" />
       <mapping pattern="configuration.js" type="PLAIN_TEXT" />
       <mapping pattern="vehicleGroup.json" type="PLAIN_TEXT" />
+      <mapping pattern="eslint" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="ejs" type="XHTML" />
     </extensionMap>
