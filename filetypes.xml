@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="customers" type="JavaScript" />
       <mapping pattern="ssl-config" type="JavaScript" />
       <mapping pattern="eslint" type="PLAIN_TEXT" />
