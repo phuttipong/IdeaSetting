@@ -620,6 +620,9 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
+    <option name="EL_BACKGROUND">
+      <value />
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="80" />
@@ -678,6 +681,9 @@
       <value>
         <option name="FOREGROUND" value="ffc66d" />
       </value>
+    </option>
+    <option name="GHERKIN_TABLE_PIPE">
+      <value />
     </option>
     <option name="GHERKIN_TAG">
       <value>

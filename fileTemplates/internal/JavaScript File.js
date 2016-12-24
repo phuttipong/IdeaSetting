@@ -1,3 +1,1 @@
-/**
- * Created by Phuttipong Aimsupanimitr on ${DATE}.
- */
+#parse("File Header Js.js")

@@ -1,43 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="chai-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai_chai.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_chai_chai.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="mocha-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_mocha.d.ts" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_mocha_mocha-node.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="should-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_should_should.d.ts" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_should_should.d.ts" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="webpack-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
