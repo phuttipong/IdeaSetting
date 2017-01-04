@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'skooldio-api'" />
-    <option name="defaultScopeName" value="Project 'skooldio-api'" />
+    <option name="customScope" value="File '.../public-backoffice/index.ejs - [skooldio-classroom]'" />
+    <option name="defaultScopeName" value="File '.../public-backoffice/index.ejs - [skooldio-classroom]'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'skooldio-api'" />
+    <option name="SEARCH_SCOPE" value="File '.../public-backoffice/index.ejs - [skooldio-classroom]'" />
   </component>
 </application>
