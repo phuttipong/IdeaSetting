@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '.../src - [skooldio-api]'" />
     <option name="defaultScopeName" value="Directory '.../src - [skooldio-api]'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../src - [skooldio-api]'" />
   </component>
 </application>
