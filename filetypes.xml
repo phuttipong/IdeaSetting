@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
+      <removed_mapping ext="ejs" type="EJS" />
       <mapping pattern="invoice" type="JSON" />
-      <mapping pattern="customers" type="JavaScript" />
       <mapping pattern="ssl-config" type="JavaScript" />
       <mapping pattern="vehicleGroup.json" type="PLAIN_TEXT" />
       <mapping pattern="explorer" type="PLAIN_TEXT" />
