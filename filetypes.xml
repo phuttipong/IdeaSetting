@@ -10,6 +10,7 @@
       <mapping pattern="eslint" type="PLAIN_TEXT" />
       <mapping pattern="configuration.js" type="PLAIN_TEXT" />
       <mapping pattern="web" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="ejs" type="XHTML" />
     </extensionMap>
