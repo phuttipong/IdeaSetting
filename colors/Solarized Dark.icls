@@ -1,4 +1,5 @@
 <scheme name="Solarized Dark" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Hack" />
