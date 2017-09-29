@@ -4,12 +4,6 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="invoice" type="JSON" />
       <mapping pattern="ssl-config" type="JavaScript" />
-      <mapping pattern="explorer" type="PLAIN_TEXT" />
-      <mapping pattern="dasd" type="PLAIN_TEXT" />
-      <mapping pattern="vehicleGroup.json" type="PLAIN_TEXT" />
-      <mapping pattern="eslint" type="PLAIN_TEXT" />
-      <mapping pattern="ttt" type="PLAIN_TEXT" />
-      <mapping pattern="web" type="PLAIN_TEXT" />
       <mapping pattern="configuration.js" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
