@@ -1,18 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="invoice" type="JSON" />
       <mapping pattern="ssl-config" type="JavaScript" />
       <mapping pattern=".apiconnect" type="PLAIN_TEXT" />
       <mapping pattern="configuration.js" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="xtmpl" type="XML" />
       <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping pattern="Dockerfile.*" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
