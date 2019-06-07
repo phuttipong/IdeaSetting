@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bluebird-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
