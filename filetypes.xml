@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="invoice" type="JSON" />
       <mapping pattern="ssl-config" type="JavaScript" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".apiconnect" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="wait-for" type="PLAIN_TEXT" />
