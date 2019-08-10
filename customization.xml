@@ -21,5 +21,10 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Javascript.Linters.EsLint.Fix" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
