@@ -14,5 +14,6 @@
     <mask>*.story.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.js</mask>
+    <mask>(spec)!.ts</mask>
   </component>
 </application>
